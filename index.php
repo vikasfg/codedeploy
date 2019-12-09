@@ -1,4 +1,4 @@
 <?php
-echo "www.faridagupta.comxf";
+echo "www.faridagupta.comsxf";
 phpinfo();
 ?>
